@@ -1,3 +1,4 @@
+
 #1.logging to file
 
 '''from logging import *
@@ -171,3 +172,20 @@ output:
 priya
 welcome priya'''
   
+
+##def fun(a,b):
+##    if(b==0):
+##        return abs(a)
+##    else:
+##        return fun(b,a%b)
+##a=90
+##b=80
+##print("the gcd of 90 and 80 is:",end=" ")
+##print(fun(a,b))
+##
+
+
+for i in a:
+    for j in (i,a+1):
+        for k in (j,a+1):
+            print()

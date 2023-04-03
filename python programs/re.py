@@ -13,7 +13,7 @@
 ##
 ##
 
-import re
+'''import re
 count=0
 p=re.compile("ab")
 s=p.finditer("abaaababaabbaab")
@@ -21,3 +21,9 @@ for i in s:
     count=count+1
     print("original index:",i.start())
 
+output:
+original index: 0
+original index: 4
+original index: 6
+original index: 9
+original index: 13'''

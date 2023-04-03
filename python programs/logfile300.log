@@ -12,3 +12,11 @@ INFO:root:this is info
 WARNING:root:this is warning
 ERROR:root:this is error
 CRITICAL:root:tis is critical
+INFO:root:this is info
+WARNING:root:this is warning
+ERROR:root:this is error
+CRITICAL:root:tis is critical
+INFO:root:this is info
+WARNING:root:this is warning
+ERROR:root:this is error
+CRITICAL:root:tis is critical

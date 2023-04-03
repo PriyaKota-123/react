@@ -39,7 +39,7 @@ bca
 cab
 cba
 '''
-from itertools import permutations
+'''from itertools import permutations
 import string
 s="abc"
 a=string.ascii_letters
@@ -48,7 +48,7 @@ d=[]
 for i in list(p):
     if(i not in d):
         d.append(i)
-        print("".join(i))
+        print("".join(i))'''
 
 ##3) wap to print even and odd numbers separatly from a list by using filter function.
 
